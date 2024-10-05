@@ -28,7 +28,7 @@ I'm a 4th-year Computer Science Engineering student at Sreenidhi Institute of Sc
 - [Cybersecurity OSINT Tool](https://github.com/Saisuhas12/Cyber_security_OSINT_tool): An open-source OSINT tool for gathering and analyzing information from public sources.
 - [AI-Powered Vector Search](https://github.com/Saisuhas12/vector-search-ai): Implementing Vector Search in TiDB Serverless to power AI-driven search applications.
 - [Resume Building Website ](https://github.com/Saisuhas12/resume_builder): Helps to build your resume in easy way.
-- [Password Strength Checker ](https://github.com/Saisuhas12/Pass_check): Checks the strength of password and also gives suggestion
+- [Password Strength Checker ](https://saisuhas12.github.io/pass_checker/): Checks the strength of password and also gives suggestion
 
 ### 📊 GitHub Stats:
 ![Saisuhas12's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saisuhas12&show_icons=true&theme=dark)
