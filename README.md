@@ -26,7 +26,7 @@ I'm a 4th-year Computer Science Engineering student at Sreenidhi Institute of Sc
 
 ### 🚀 Projects
 - [Cybersecurity OSINT Tool](https://github.com/Saisuhas12/Cyber_security_OSINT_tool): An open-source OSINT tool for gathering and analyzing information from public sources.
-- [AI-Powered Vector Search](https://github.com/Saisuhas12/vector-search-ai): Implementing Vector Search in TiDB Serverless to power AI-driven search applications.
+- [Website Scanner](https://github.com/Saisuhas12/web_scan): It scans and checks the open ports for a website.
 - [Resume Building Website ](https://saisuhas12.github.io/resume_builder/): Helps to build your resume in easy way.
 - [Password Strength Checker ](https://saisuhas12.github.io/pass_checker/): Checks the strength of password and also gives suggestion
 
