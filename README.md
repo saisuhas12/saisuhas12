@@ -30,8 +30,6 @@ I'm a 4th-year Computer Science Engineering student at Sreenidhi Institute of Sc
 - [Resume Building Website ](https://saisuhas12.github.io/resume_builder/): Helps to build your resume in easy way.
 - [Password Strength Checker ](https://saisuhas12.github.io/pass_checker/): Checks the strength of password and also gives suggestion
 
-### 📊 GitHub Stats:
-![Saisuhas12's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saisuhas12&show_icons=true&theme=dark)
 
 ### 🏆 Certifications
 - PaloAlto Cybersecurity Intern
