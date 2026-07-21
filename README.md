@@ -1,248 +1,302 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Sai Suhas</h1>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Sai Suhas
 
-<h3 align="center">
-🛡️ Certified Ethical Hacker (CEH) | Cybersecurity Engineer | Security Researcher | Full Stack Developer
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Certified+Ethical+Hacker+(CEH);Cybersecurity+Engineer;Security+Researcher;SOC+%7C+Blue+Team+%7C+Offensive+Security;Full+Stack+Developer;Always+Learning+New+Things" />
 
-<p align="center">
-Passionate about Offensive Security • Blue Team Operations • Secure Software Development • AI for Cybersecurity
+<img src="https://komarev.com/ghpvc/?username=Saisuhas12&label=Profile%20Views&color=00ff88&style=for-the-badge" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/saisuhas1212)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:saisuhas1212@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge)](https://twitter.com/suha94100971)
+
+</div>
+
+---
+
+# 💀 About Me
+
+```yaml
+Name: Sai Suhas
+Role: Cybersecurity Engineer
+Certification: Certified Ethical Hacker (CEH)
+Location: India
+
+Focus:
+  - Offensive Security
+  - Threat Detection
+  - Incident Response
+  - Secure Software Development
+  - AI for Cybersecurity
+
+Currently Learning:
+  - Detection Engineering
+  - Malware Analysis
+  - Active Directory
+  - Cloud Security
+  - Threat Hunting
+```
+
+---
+
+# 🚀 Current Mission
+
+- 🛡️ Building Cybersecurity Tools
+- 🔍 Learning Detection Engineering
+- ⚔️ Practicing Web Application Penetration Testing
+- ☁️ Exploring Cloud Security
+- 🤖 AI + Cybersecurity
+- 🧠 Participating in CTF Challenges
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,cs,js,ts"/>
+
 </p>
 
----
+### Frontend
 
-## 👨‍💻 About Me
+<p>
 
-I'm **Sai Suhas**, a Computer Science graduate specializing in **Cybersecurity** with a passion for building secure applications, researching modern cyber threats, and developing practical security solutions.
+<img src="https://skillicons.dev/icons?i=html,css,react,angular,nextjs,tailwind"/>
 
-I enjoy combining **software engineering** with **cybersecurity** to create tools that improve security, privacy, and automation. My interests include penetration testing, threat detection, digital forensics, web application security, cloud security, and AI-powered cybersecurity.
+</p>
 
-I'm continuously learning, building, and contributing to projects that solve real-world security challenges.
+### Backend
 
----
+<p>
 
-## 🚀 Currently Focusing On
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express"/>
 
-- 🛡️ Offensive Security & Ethical Hacking
-- 🔍 Threat Detection & Incident Response
-- 📊 SIEM & Security Monitoring
-- 🌐 Web Application Security
-- ☁️ Cloud Security
-- 🤖 AI for Cybersecurity
-- 🐧 Linux Security
-- 🧩 Capture The Flag (CTF) Challenges
+</p>
 
----
+### Database
 
-## 💼 Featured Projects
+<p>
 
-### 🔐 CipherRoom
-A privacy-first encrypted collaboration platform built with **Next.js**, **TypeScript**, and **Supabase**.
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase"/>
 
-**Key Features**
-- 🔒 End-to-End AES-256 Client-Side Encryption
-- 🔑 Password Protected Rooms
-- ⏳ Automatic Room Expiration
-- 💬 Real-Time Secure Chat
-- 📝 Collaborative Notes
-- 🚫 No User Accounts Required
+</p>
 
-**Tech Stack**
-Next.js • TypeScript • Supabase • PostgreSQL • Tailwind CSS
+### Cloud & DevOps
 
----
+<p>
 
-### 🛡️ SOC Sentinel XDR
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,bash"/>
 
-An Incident Response & Threat Detection Platform designed for Security Operations Centers.
-
-**Features**
-- Log Analysis
-- IOC Detection
-- Incident Management
-- Case Notes
-- Audit Logging
-- PDF Compliance Reports
-- GeoIP Integration
-
-**Tech Stack**
-
-Python • Flask • SQLite • ReportLab • GeoIP2
-
----
-
-### 🔎 Cyber Security OSINT Tool
-
-An open-source intelligence framework that gathers publicly available information for security investigations.
-
-**Features**
-- Domain Intelligence
-- Email Intelligence
-- IP Information
-- WHOIS Lookup
-- DNS Enumeration
-
-Repository:
-> https://github.com/Saisuhas12/Cyber_security_OSINT_tool
-
----
-
-### 🌐 Website Security Scanner
-
-Security assessment tool that performs website reconnaissance and basic vulnerability checks.
-
-Repository:
-> https://github.com/Saisuhas12/web_scan
-
----
-
-## 🛠️ Technical Skills
-
-### Programming Languages
-
-- Python
-- C#
-- Java
-- JavaScript
-- TypeScript
-- SQL
-
----
-
-### Cybersecurity
-
-- Penetration Testing
-- Vulnerability Assessment
-- Web Application Security
-- Network Security
-- Threat Hunting
-- Incident Response
-- Threat Intelligence
-- Security Auditing
-- OSINT
-- OWASP Top 10
-- MITRE ATT&CK
-
----
+</p>
 
 ### Security Tools
 
-- Burp Suite
-- Wireshark
-- Nmap
-- Splunk
-- Microsoft Sentinel
-- QRadar
-- Metasploit
-- Kali Linux
-- Git
-- Docker
+<p>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=kali,burpsuite,wireshark,nmap"/>
+
+</p>
 
 ---
 
-### Development
+# 🛡 Cybersecurity Skills
 
-- ASP.NET Core
-- React
-- Angular
-- Next.js
-- Node.js
-- Express.js
-- REST APIs
-- Tailwind CSS
+<table>
 
----
+<tr>
 
-### Databases
+<td width="50%">
 
-- PostgreSQL
-- SQL Server
-- MySQL
-- MongoDB
-- Supabase
+### 🔴 Offensive Security
 
----
+- Penetration Testing
+- Web Security
+- OWASP Top 10
+- Vulnerability Assessment
+- OSINT
+- Network Scanning
+- Enumeration
 
-### Cloud & Operating Systems
+</td>
 
-- AWS
-- Linux
-- Windows
+<td width="50%">
 
----
+### 🔵 Blue Team
 
-## 🏆 Certifications
-
-- 🥇 Certified Ethical Hacker (CEH)
-- ☁️ AWS Academy Cloud Architecting
-- 🛡️ Palo Alto Networks Cybersecurity Foundation
-- 🤖 Google AI-ML Virtual Internship
-- 🚀 NVIDIA – Building RAG Agents with LLMs
-
----
-
-## 🌱 Currently Learning
-
-- Detection Engineering
-- Malware Analysis
-- Active Directory Security
+- Threat Hunting
+- SIEM
+- Log Analysis
+- Incident Response
 - Threat Intelligence
-- Cloud Security
-- Security Automation using Python
-- AI for Cybersecurity
+- MITRE ATT&CK
+- Security Monitoring
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## 🎯 Career Interests
+# 🌟 Featured Projects
 
-- Security Engineer
-- SOC Analyst
-- Cybersecurity Engineer
-- Threat Hunter
-- Penetration Tester
-- AI Security Engineer
+## 🔐 CipherRoom
+
+> Privacy-first encrypted collaboration platform.
+
+### Features
+
+- AES-256 Client-side Encryption
+- Password Protected Rooms
+- Anonymous Chat
+- Auto Delete Rooms
+- Real-time Collaboration
+- Zero Account Required
+
+**Tech**
+
+Next.js • TypeScript • Supabase • PostgreSQL
+
+🔗 https://cipherroom.app
+
+🔗 https://github.com/Saisuhas12/CipherRoom
 
 ---
 
-## 🤝 Let's Collaborate
+## 🛡 SOC Sentinel XDR
 
-I'm always interested in collaborating on:
+Threat Detection & Incident Response Platform
 
-- Cybersecurity Projects
-- Open Source Security Tools
-- AI Security Research
-- CTF Challenges
-- Detection Engineering
-- Security Automation
+Features
+
+- IOC Detection
+- Incident Management
+- Audit Logs
+- Compliance Reports
+- GeoIP Tracking
+- Case Management
+
+Python • Flask • SQLite
 
 ---
 
-## 📫 Connect With Me
+## 🔎 Cyber Security OSINT Tool
 
-<p align="left">
+OSINT Framework for gathering publicly available intelligence.
+
+Python
+
+---
+
+## 🌐 Website Security Scanner
+
+Reconnaissance tool for scanning websites.
+
+Python
+
+---
+
+# 🏆 Certifications
+
+🏅 Certified Ethical Hacker (CEH)
+
+☁ AWS Academy Cloud Architecting
+
+🛡 Palo Alto Cybersecurity Foundation
+
+🤖 Google AI-ML Virtual Internship
+
+🚀 NVIDIA - Building RAG Agents with LLMs
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Saisuhas12&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Saisuhas12&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saisuhas12&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Saisuhas12&theme=algolia&no-frame=true&column=4"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saisuhas12&theme=github-compact"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Saisuhas12/Saisuhas12/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+> **Note:** You'll need to set up a GitHub Action to generate the snake animation automatically.
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Build Open Source Security Tools
+- 🔄 Contribute to Cybersecurity Projects
+- 🎯 Learn Malware Analysis
+- ☁ Master Cloud Security
+- 🤖 Build AI Security Projects
+- 🏅 Earn Advanced Security Certifications
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
 
 <a href="https://linkedin.com/in/saisuhas1212">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:saisuhas1212@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://twitter.com/suha94100971">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
 
 ---
 
-## ⚡ Fun Fact
+<div align="center">
 
-> "The best way to learn cybersecurity is to build, break, analyze, and secure."
+## ⚡ Favorite Quote
 
----
+> **"Security is not a product, it's a continuous process."**
 
-<p align="center">
-⭐ If you like my work, consider starring my repositories!
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,100:0066FF&height=120&section=footer"/>
+
+</div>
