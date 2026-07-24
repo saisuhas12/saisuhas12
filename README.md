@@ -254,17 +254,6 @@ Python
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saisuhas12&theme=react-dark"/>
-</div>
-
-> **Note:** You'll need to set up a GitHub Action to generate the snake animation automatically.
-
----
-
 # 🎯 2026 Goals
 
 - ✅ Build Open Source Security Tools
