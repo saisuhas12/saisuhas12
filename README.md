@@ -7,6 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=Saisuhas12&label=Profile%20Views&color=00ff88&style=for-the-badge" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/saisuhas1212)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://saisuhas-one.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:saisuhas1212@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge)](https://twitter.com/suha94100971)
 
@@ -21,6 +22,7 @@ Name: Sai Suhas
 Role: Cybersecurity Engineer
 Certification: Certified Ethical Hacker (CEH)
 Location: India
+Portfolio: https://saisuhas-one.vercel.app/
 
 Focus:
   - Offensive Security
@@ -256,8 +258,7 @@ Python
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Saisuhas12/Saisuhas12/output/github-contribution-grid-snake-dark.svg"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saisuhas12&theme=react-dark"/>
 </div>
 
 > **Note:** You'll need to set up a GitHub Action to generate the snake animation automatically.
